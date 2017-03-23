@@ -20,6 +20,8 @@
 //npm install --save-dev cucumber << this will install v2.0+
 //npm install chai chai-as-promised
 
+// exectute tests by : ./node_modules/.bin/cucumber-js --tags=@dev
+
 var chai = require('chai');
 var chaiAsPromised = require('chai-as-promised');
 
